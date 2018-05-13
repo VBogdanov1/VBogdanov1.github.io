@@ -58,7 +58,7 @@ In this notebook I try to solve this problem.
 
 
 ### Time Series Analysis: predicting Russian average monthly wages 
-[Github](https://github.com/VBogdanov1/VBogdanov1.github.io/Notebooks/Time_Series_Analysis_RussianMonthlyWages.ipynb)
+[Github](https://github.com/VBogdanov1/VBogdanov1.github.io/blob/master/Notebooks/Time_Series_Analysis_RussianMonthlyWages.ipynb)
 
 VBogdanov1.github.io/Notebooks/Time_Series_Analysis_RussianMonthlyWages.ipynb
 ### House Prices: Advanced Regression Techniques
