@@ -34,7 +34,7 @@ Solution to this could be found here:[Github](https://github.com/VBogdanov1/VBog
 
 ## Clustering and visualisation with PCA, t-SNE and MDS
 
-Clustering is an approach to unsupervised machine learning. In this notebook I've just demonstrate its basic functionality using "digits" dataset (it is available [here](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits).
+Clustering is an approach to unsupervised machine learning. In this notebook I've just demonstrate its basic functionality using "digits" dataset (it is available [here](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)).
 
 Notebook could be found here:[Github](https://github.com/VBogdanov1/VBogdanov1.github.io/blob/master/Notebooks/Clustering_and_visualisation_via_sklearn.ipynb)
 
