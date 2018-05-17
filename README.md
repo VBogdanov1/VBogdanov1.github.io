@@ -1,6 +1,7 @@
 # Technical samples by Vladimir Bogdanov
 
-### Python (numpy, pandas, scikit) data science stack, supervised and unsupervised learning, machine learning models exploration, statistical analysis. There some training notebooks I've prepared and used for data analysis and exploration of machine learning algorithms. 
+### Python (numpy, pandas, scikit) data science stack, supervised and unsupervised learning, machine learning models exploration, statistical analysis. 
+### There are some training notebooks I've prepared and used for data analysis and exploration of machine learning algorithms. 
 
 
 ## Sentiment Analysis of product reviews for Kaggle Competition | Classification problem
